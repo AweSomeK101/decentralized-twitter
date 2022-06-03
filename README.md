@@ -1,2 +1,2 @@
-# Twitter-Final
+# Decentralized Twitter
 
